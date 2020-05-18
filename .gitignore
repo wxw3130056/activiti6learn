@@ -1,0 +1,11 @@
+.project
+.settings/**
+**/target/**
+**/.classpath
+**/.settings/**
+**/target/
+**/WEB-INF/classes/**
+**/lib/**
+**/*.MF
+*.iml
+.idea
